@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/02 11:59:01.000.752,=C:\Users\karth\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/08 11:52:50.000.378,=C:\Users\karth\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/08 12:19:21.000.899,C:\Users\karth\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Delphi_Karthik\Button.dfm</Transaction>
+    <Transaction>2024/05/08 12:19:21.000.899,C:\Users\karth\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Delphi_Karthik\Button.pas</Transaction>
+    <Transaction>2024/05/08 12:19:50.000.718,C:\Users\karth\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Delphi_Karthik\Buttons\Buttons.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

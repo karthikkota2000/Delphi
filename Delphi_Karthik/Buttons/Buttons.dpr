@@ -1,0 +1,14 @@
+program Buttons;
+
+uses
+  Vcl.Forms,
+  Button in '..\Button.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
